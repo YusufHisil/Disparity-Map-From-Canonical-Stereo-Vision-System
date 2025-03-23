@@ -1,0 +1,16 @@
+Intrinsic parameters values:
+f = 530.77209
+xC = 293.83490
+yC = 188.35286
+Left camera position:
+XCl = -110.000
+YCl = -1120.000
+ZCl = 0.000
+Right camera position:
+XCr = 114.190
+YCr = -1119.260
+ZCr = -3.651
+Camera rotation:
+0.999862	-0.003301	0.016283
+0.003300	0.999995	0.000054
+-0.016283	0.000000	0.999867
